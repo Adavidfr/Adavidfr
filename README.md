@@ -5,7 +5,7 @@
 <!-- Tools -->
 ## 📫 Reach me on
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-frias-ruiz)](https://www.linkedin.com/in/david-frias-ruiz)
-[![Gmail Badge](https://img.shields.io/badge/-adavidfruiz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adavidfruiz@gmail.com)]
+![Gmail Badge](https://img.shields.io/badge/-adavidfruiz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adavidfruiz@gmail.com)
 
 <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-frias-ruiz)
 ![Gmail](https://img.shields.io/badge/adavidfruiz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->
